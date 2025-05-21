@@ -1,4 +1,4 @@
-# 🌞 Solar Challenge – Week 1
+#  Solar Challenge – Week 1
 
 This project is part of the Solar Challenge and focuses on data profiling, cleaning, and exploratory data analysis (EDA) for solar energy datasets across different countries. The task is implemented in Python using Jupyter notebooks, Git, and GitHub Actions for CI.
 
@@ -23,5 +23,5 @@ This project is part of the Solar Challenge and focuses on data profiling, clean
 
 ### 📁 1. Clone the Repository
 ```bash
-git clone https://github.com/your-username/solar-challenge-week1.git
+git clone https://github.com/Fenet-damena/solar-challenge-week1.git
 cd solar-challenge-week1
